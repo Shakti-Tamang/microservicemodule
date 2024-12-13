@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Annotation profile for microservicemulti" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+        <module name="attendence" />
+        <module name="postaws" />
+        <module name="Auth" />
+        <module name="core" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="attendence" target="17" />
+      <module name="Auth" target="17" />
+      <module name="core" target="17" />
+      <module name="microservicesmulti" target="17" />
+      <module name="postaws" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Auth" options="-parameters" />
+      <module name="attendence" options="-parameters" />
+      <module name="core" options="-parameters" />
+      <module name="microservicesmulti" options="" />
+      <module name="postaws" options="-parameters" />
+    </option>
+  </component>
+</project>

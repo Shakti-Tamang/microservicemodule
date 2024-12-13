@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a3490f9-abee-4ecf-81b1-f9bcb61c4ecf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2q9BJA6b6USPwwscJdcXD6loRYS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.poratu.idea.plugins.tomcat.setting.TomcatServersConfigurable" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MicroApp">
+    <configuration name="MicroApp" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.multimodule.MicroApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MicroApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="microservicesmulti" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.multimodule.MicroApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.MicroApp" />
+      <item itemvalue="Spring Boot.MicroApp" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a3490f9-abee-4ecf-81b1-f9bcb61c4ecf" name="Default Changelist" comment="" />
+      <created>1734064835107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1734064835107</updated>
+      <workItem from="1734064838893" duration="1323000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="362" y="0" width="659" height="720" key="#MicroApp" timestamp="1734066035929">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="362" y="0" width="659" height="720" key="#MicroApp/0.0.1366.720@0.0.1366.720" timestamp="1734066035929" />
+    <state x="137" y="8" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1734066108973">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="137" y="8" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.720@0.0.1366.720" timestamp="1734066108973" />
+    <state x="350" y="102" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1734066103982">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="350" y="102" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.720@0.0.1366.720" timestamp="1734066103982" />
+    <state x="0" y="0" key="new project wizard" timestamp="1734065672163">
+      <screen x="0" y="0" width="1366" height="720" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.720@0.0.1366.720" timestamp="1734065672163" />
+  </component>
+</project>
